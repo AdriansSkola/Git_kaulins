@@ -1,6 +1,6 @@
 # Projekts "Git_kaulins"
 Java metamā kauliņa projekts, kurš nodrošina nejauša skaitļa uzmešanu.
-![Metamais kauliņš](https://atlas-content-cdn.pixelsquid.com/stock-images/dice-B5mdRR0-600.jpg)
+![Metamais kauliņš](https://cdn-icons-png.flaticon.com/512/9003/9003230.png)
 
 ### **Darāmo darbu saraksts**
 
